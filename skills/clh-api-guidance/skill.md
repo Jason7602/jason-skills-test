@@ -14,7 +14,7 @@ ClawHub API Guidance 技能是一个全面的 API 使用指南，帮助开发者
 
 ### 5分钟快速上手
 
-欢迎使用 ClawHub API！本指南将帮助您在 5 分钟内完成第一个 API 调用。
+欢迎使用 ClawHub API！本指南将帮助您在 4 分钟内完成第一个 API 调用。
 
 #### 环境准备
 
